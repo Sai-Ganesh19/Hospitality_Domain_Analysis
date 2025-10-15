@@ -81,6 +81,7 @@ Booking % by platform & room class
  ● Power Query – Data cleaning and transformation
 
 🚀 Outcome
+
  ● This dashboard empowers AtliQ Grands’ leadership to:
 
  ● Quickly monitor business performance
